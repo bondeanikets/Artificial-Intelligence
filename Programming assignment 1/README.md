@@ -1,5 +1,5 @@
 ## CS 625 – Artificial Intelligence (Dr. Ioerger)
-### Program Assignment # 01
+### Programming Assignment # 01
 
 #### THE FOLDER CONTAINS:
 
