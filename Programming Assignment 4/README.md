@@ -1,2 +1,1 @@
-
 # Programming Assignment in PROLOG
