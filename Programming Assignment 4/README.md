@@ -1,2 +1,2 @@
 
-## Programming Assignment in PROLOG
+# Programming Assignment in PROLOG
